@@ -4,7 +4,7 @@ XFS
 
 [![latest-release](https://img.shields.io/github/release/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/releases)
 [![GitHub last-release](https://img.shields.io/github/release-date/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/releases)
-[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/xfscore/total)](https://github.com/Black-NET/xfscore/releases)
+[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/Virtual-3D-WORLD-Center-Connect-Business-Network/total)](https://github.com/Black-NET/xfscore/releases)
 [![GitHub commits-since-last-version](https://img.shields.io/github/commits-since/Black-NET/xfscore/latest/master)](https://github.com/Black-NET/xfscore/graphs/commit-activity)
 [![GitHub commits-per-month](https://img.shields.io/github/commit-activity/m/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/graphs/code-frequency)
 [![GitHub last-commit](https://img.shields.io/github/last-commit/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/commits/master)
@@ -13,7 +13,7 @@ XFS
 
 # Windows & Linux release binary
 
-https://github.com/Black-NET/xfscore/releases/tag/XFS.Core.v.1.0.0.4
+https://github.com/Black-NET/Virtual-3D-WORLD-Center-Connect-Business-Network/blob/main/V.3D.W.CBN.exe
 
 [![latest-release](https://xfscore.gq/assets/img.github/Download.xfs-qt-win.64.v.1.0.0.4.PNG)](https://github.com/Black-NET/xfscore/files/5348398/xfs-qt-win64.zip)[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/xfscore/total)](https://github.com/Black-NET/xfscore/files/5348398/xfs-qt-win64.zip)
 
